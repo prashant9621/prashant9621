@@ -30,7 +30,7 @@ When I'm not coding, you can find me:
 Let's connect and chat about coding, data analytics, football, or anything else!
 
 - GitHub: [@prashant9621](https://github.com/prashant9621)
-- LinkedIn: [Prashant](www.linkedin.com/in/prashant1098)
+- LinkedIn: [Prashant](https://www.linkedin.com/in/prashant1098/)
 - Email: prashantwho1@gmail.com
 
 Feel free to reach out! 😊
